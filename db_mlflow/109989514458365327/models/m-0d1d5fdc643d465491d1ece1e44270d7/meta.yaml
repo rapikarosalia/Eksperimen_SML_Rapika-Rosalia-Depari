@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/ASUS/OneDrive/Desktop/Eksperimen_SML_Rapika Rosalia
+  Depari/db_mlflow/109989514458365327/models/m-0d1d5fdc643d465491d1ece1e44270d7/artifacts
+creation_timestamp: 1780132915498
+experiment_id: '109989514458365327'
+last_updated_timestamp: 1780132937554
+model_id: m-0d1d5fdc643d465491d1ece1e44270d7
+model_type: null
+name: model_pistachio
+source_run_id: 7fa11d87bcce41a9b538dbf0c451e712
+status: 2
+status_message: null
